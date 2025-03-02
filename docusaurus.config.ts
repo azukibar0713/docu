@@ -86,6 +86,12 @@ const config: Config = {
           label: 'GitHub',
           position: 'right',
         },
+        {
+          type: 'docSidebar',
+          sidebarId: 'toolsSidebar',
+          position: 'left',
+          label: 'Tools',
+        },
       ],
     },
     footer: {
